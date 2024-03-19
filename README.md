@@ -34,5 +34,5 @@ The background color is `#ffffff` for light mode
 
  [Facebook](https://www.facebook.com)
 
-![Sand meeting seawater.](https://www.freepik.com/free-photo/top-view-sand-meeting-seawater_9819012.htm#query=sea&position=1&from_view=keyword&track=sph&uuid=cf3275a0-fdcc-4876-99c2-f2c375b12020)
+![Seashore during golden hour.](https://unsplash.com/photos/seashore-during-golden-hour-KMn4VEeEPR8)
 
